@@ -55,7 +55,7 @@ Buatlah dokumen HTML seperti berikut:
 
 Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasilnya
 
-![Screenshot (267)](https://github.com/rniarzz/lab2Web/assets/115542704/48974aa1-aab6-4e8e-8029-0974054f2821)
+![IMG_20231007_233807](https://github.com/MuhammadReza1234/Lab2web/assets/115516607/97c30cde-f703-44de-93b0-12ba0533d788)
 
 ---
 
@@ -92,7 +92,7 @@ Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokum
 
 Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasilnya
 
-![Screenshot (268)](https://github.com/rniarzz/lab2Web/assets/115542704/5332b414-75f1-41f7-b195-763df77235cb)
+![IMG_20231007_233940](https://github.com/MuhammadReza1234/Lab2web/assets/115516607/0db66040-cd26-4e7d-b81f-89a861b71399)
 
 ---
 
@@ -106,7 +106,7 @@ Kemudian tambahkan deklarasi inline CSS pada tag `<p>` seperti berikut.
 
 Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasilnya
 
-![Screenshot (269)](https://github.com/rniarzz/lab2Web/assets/115542704/d746740c-6c77-43c1-84bf-63c374b94c3a)
+![IMG_20231007_234047](https://github.com/MuhammadReza1234/Lab2web/assets/115516607/76775488-7fa2-449c-8eec-002f884f2afa)
 
 ---
 
@@ -143,7 +143,7 @@ Kemudian tambahkan tag `<link>` untuk merujuk file css yang sudah dibuat pada ba
 
 Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasilnya
 
-![Screenshot (271)](https://github.com/rniarzz/lab2Web/assets/115542704/f4184d07-663b-4ab1-92de-07372568bea7)
+![IMG_20231007_234139](https://github.com/MuhammadReza1234/Lab2web/assets/115516607/fcb4d93f-2409-483e-a5f6-635ed8a6cf3c)
 
 ---
 
@@ -180,7 +180,7 @@ Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada fil
 
 Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasilnya
 
-![Screenshot (272)](https://github.com/rniarzz/lab2Web/assets/115542704/9c42b084-a6c1-4e1f-9343-9742cc5d707c)
+![IMG_20231007_234241](https://github.com/MuhammadReza1234/Lab2web/assets/115516607/7ac73de4-d346-4ebb-bb17-6a17620410f8)
 
 ---
 
@@ -193,7 +193,7 @@ Jawab: </b>
 ```
 header
 {
-    background-image:Url(C:/Users/Asus/Pictures/milik rini/DSC04430.JPG);
+    background-image:Url(C:/Users/Asus/Pictures/milik reza/DSC04430.JPG);
     background-position: center center;
     background-size: 630px;
     background-repeat: no-repeat;
@@ -202,7 +202,7 @@ header
 
 ```
 
-![Screenshot (273)](https://github.com/rniarzz/lab2Web/assets/115542704/e7f87989-640c-474e-985f-765ad23b5d6b)
+![IMG_20231007_234346](https://github.com/MuhammadReza1234/Lab2web/assets/115516607/248ddac7-d044-460f-beff-ab2a030987e1)
 
 <b> 2. Apa perbedaan pendeklarasian CSS elemen `h1 {...}` dengan `#intro h1 {...}`? berikan penjelasannya! </br>
 Jawab: </b>
